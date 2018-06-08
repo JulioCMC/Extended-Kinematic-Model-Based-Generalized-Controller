@@ -1,2 +1,3 @@
-# Generalized-Controller-for-Wheeled-Mobile-Robots
-Here is presented the algoritm to path following and trajectory tracking for wheeled mobile robots
+# Extended Kinematic Model Based Generalized Controller
+
+This new controller can be used for non-holonomic Wheeled Mobile Robots for control tasks such as path following or trajectory tracking, independently.
